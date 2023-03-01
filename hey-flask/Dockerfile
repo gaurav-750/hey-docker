@@ -11,4 +11,4 @@ RUN pip install -r requirements.txt
 EXPOSE 3000
 
 # CMD [ "python ./index.py" ]
-CMD [ "python" , "./index.py"]
+CMD [ "python", "./index.py"]
